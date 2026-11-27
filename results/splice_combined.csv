@@ -1,0 +1,17 @@
+subset,model,cv_auroc
+3-10 bp,distance,0.8241472868217053
+3-10 bp,distance + RNA-seq,0.9491782945736433
+3-10 bp,distance + splice,0.9936744186046511
+3-10 bp,distance + RNA-seq + splice,0.9977906976744186
+11-50 bp,distance,0.3388256321991262
+11-50 bp,distance + RNA-seq,0.8617900172117041
+11-50 bp,distance + splice,0.964186415993645
+11-50 bp,distance + RNA-seq + splice,0.9652058784588904
+3-50 bp,distance,0.849154161217044
+3-50 bp,distance + RNA-seq,0.9411251462793417
+3-50 bp,distance + splice,0.9800251256281408
+3-50 bp,distance + RNA-seq + splice,0.9860105321126177
+all intronic splice-region,distance,0.9586008202323992
+all intronic splice-region,distance + RNA-seq,0.9806210982000454
+all intronic splice-region,distance + splice,0.9936550467076783
+all intronic splice-region,distance + RNA-seq + splice,0.9954153565732513
